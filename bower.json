@@ -1,0 +1,22 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bidhan-a/jspatterns",
+  "authors": [
+    "Bidhan A"
+  ],
+  "description": "Exploring JS Design Patterns",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.20"
+  }
+}

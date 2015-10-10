@@ -1,0 +1,19 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "Exploring JS Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidhan-a/jspatterns.git"
+  },
+  "author": "Bidhan A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidhan-a/jspatterns/issues"
+  },
+  "homepage": "https://github.com/bidhan-a/jspatterns#readme"
+}
